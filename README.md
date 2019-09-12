@@ -5,4 +5,5 @@ Robinhood is an app to share your old clothes to poor people by just giving the 
 <h2>The logo is given as:</h2>
 <img src ="main/res/mipmap-hdpi/superman_square.png" >
 
-[![Robinhood](main/res/mipmap-hdpi/superman_square.png)](https://youtu.be/C0YQzDv984s "Robinhood App")
+<h2>To see the app working please see the video below</h2>
+[![Robinhood](ss.png)](https://youtu.be/C0YQzDv984s "Robinhood App")
